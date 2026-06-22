@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Viral Clip Pipeline" width="880">
+  <img src="assets/banner.svg" alt="Chopify" width="880">
 </p>
 
 <p align="center">
@@ -33,6 +33,24 @@
 - **Word-by-word captions** &#8212; bold CapCut style, burnt in with ffmpeg.
 - **Zero paid APIs, zero cloud** &#8212; yt-dlp + faster-whisper + ffmpeg + OpenCV.
 - **Content decides the count** &#8212; a 1-hour video might yield 2 clips or 20.
+
+## Chopify vs. the paid tools
+
+Chopify does the core of what these subscription products do &#8212; **AI-scored clips, auto-reframe to 9:16, and burnt word-by-word captions** &#8212; except it runs **free, on your own machine, and fully open-source**.
+
+| Product | Pricing | Runs | Open source |
+| --- | --- | --- | --- |
+| **Chopify** | **Free** | **Local (your PC)** | **MIT** |
+| [Opus Clip](https://www.opus.pro) | Paid subscription | Cloud | No |
+| [Vizard.ai](https://vizard.ai) | Paid subscription | Cloud | No |
+| [Klap](https://klap.app) | Paid subscription | Cloud | No |
+| [2Short.ai](https://2short.ai) | Freemium + paid | Cloud | No |
+| [Munch](https://www.getmunch.com) | Paid subscription | Cloud | No |
+| [Spikes Studio](https://spikes.studio) | Freemium + paid | Cloud | No |
+| [Submagic](https://www.submagic.co) | Paid subscription | Cloud | No |
+| [SendShort](https://sendshort.ai) | Paid subscription | Cloud | No |
+
+<sub>Independent products and trademarks of their respective owners; pricing and features change over time. Comparison covers the long-video to short-clip workflow only.</sub>
 
 ## Requirements
 
