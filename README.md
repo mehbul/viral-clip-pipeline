@@ -15,9 +15,12 @@
 
 ---
 
+> [!TIP]
+> **New in v1.1** &#8212; output is now **16:9 full-frame by default** (the whole screen, no crop). Add `--aspect 9:16` for vertical or `--aspect 1:1` for square, and **every clip auto-saves a PNG poster** next to the `.mp4`.
+
 ## Demo
 
-<p align="center"><img src="assets/demo.gif" alt="Demo clip" width="280"></p>
+<p align="center"><img src="assets/demo.gif" alt="16:9 clip with burnt word-by-word captions" width="640"></p>
 
 ## How it works
 
